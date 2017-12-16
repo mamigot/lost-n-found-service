@@ -9,6 +9,9 @@
 # System Requirements (!!!) #
 #############################
 
+# Let's be positive about this whole thing
+yes
+
 # Reload environment variables (.bash_profile in Mac; .profile in Ubuntu)
 source ~/.bash_profile 2>/dev/null || source ~/.profile
 
